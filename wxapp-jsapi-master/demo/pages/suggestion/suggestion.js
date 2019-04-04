@@ -12,7 +12,7 @@ Page({
             return;
         }
         var BMap = new bmap.BMapWX({
-            ak: '您的ak'
+          ak: 'hTIufn5EUm7K5yP0bLYsIZG9c7HOuwx8'
         });
         var fail = function(data) {
             console.log(data)
